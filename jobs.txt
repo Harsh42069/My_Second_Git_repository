@@ -1,0 +1,8 @@
+
+Examples of Jobs are -
+1) Web Development
+2) Data Engineering
+3) Machine Learning
+4) Devops
+5) MLops
+6) Data Science
